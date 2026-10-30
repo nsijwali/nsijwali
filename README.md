@@ -2,6 +2,11 @@
 
 I'm a **Lead Software Engineer** passionate about designing and building secure, scalable web applications. I focus on clean backend architectures, seamless frontend experiences, and developer-centric tooling.
 
+<a href="https://noonlaunch.com/product/yamlreel" rel="dofollow">
+  <img src="https://noonlaunch.com/badges/yamlreel.svg?theme=dark"
+       alt="Featured on Noonlaunch" width="220" height="60" />
+</a>
+
 ## 🛠️ Tech Stack
 - **Frontend**: Javascript, React, Next.js, Remix, Tailwind CSS, Typescript, jQuery, Angular 6
 - **Backend**: Node.js, Express, MongoDB
