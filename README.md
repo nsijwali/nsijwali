@@ -1,18 +1,40 @@
-# 👋 Hi, I'm Nitin Sijwali
+# Hi, I'm Nitin Sijwali 👋
 
-I'm a **Lead Software Engineer** passionate about designing and building secure, scalable web applications. I focus on clean backend architectures, seamless frontend experiences, and developer-centric tooling.
+**Lead Software Engineer** building secure, scalable web applications. I like clean backend architecture, fast and accessible frontends, and tooling that makes other engineers more productive.
 
-## 🛠️ Tech Stack
-- **Frontend**: Javascript, React, Next.js, Remix, Tailwind CSS, Typescript, jQuery, Angular 6
-- **Backend**: Node.js, Express, MongoDB
-- **Infra / DevOps**: NGINX, Docker, GitHub Actions, Bitbucket Pipelines
-- **Tools**: Git, VS Code, Postman, Windsurf, Bitbucket
+## What I'm working on
 
-## 🔍 What I'm Working On
-- 🔐 Developing OIDC-authenticated platforms with seamless session management
-- 🧰 Building admin consoles and internal tooling for high-impact engineering teams
-- 🔄 Engineering robust token refresh and proxy solutions for secure APIs
+- 🔐 Authentication platforms: OIDC sign-in, session management, token refresh
+- 🧰 Admin consoles and internal tools for engineering teams
+- 🔁 Proxy and API layers that keep service-to-service traffic secure
+- 🎬 [**yamlreel**](https://github.com/nsijwali/yamlreel): my open-source tool that turns a YAML file into a narrated explainer video
 
-## 📫 How to reach me
-- 📧 Email: [sijwalinitin@gmail.com](mailto:sijwalinitin@gmail.com)
-- 🔗 LinkedIn: [linkedin.com/in/nitinsij](https://www.linkedin.com/in/nitinsij/)
+## Featured project
+
+### [yamlreel](https://github.com/nsijwali/yamlreel) · [PyPI](https://pypi.org/project/yamlreel/) · [Website](https://nsijwali.github.io/yamlreel/)
+
+Write scenes in YAML; get animated diagrams, typed code, original music and an optional voiceover, exported as YouTube Shorts and landscape cuts plus a thumbnail. Python, MIT licensed, runs on your own machine.
+
+```bash
+pip install "yamlreel[ffmpeg]"
+yamlreel init system-design my-video.yaml
+yamlreel render my-video.yaml --preview
+```
+
+## Tech stack
+
+| Area | Tools |
+|---|---|
+| Frontend | TypeScript, JavaScript, React, Next.js, Remix, Angular, Tailwind CSS |
+| Backend | Node.js, Express, MongoDB, Python |
+| Infra / DevOps | NGINX, Docker, GitHub Actions, Bitbucket Pipelines |
+| Tools | Git, VS Code, Postman, Bitbucket |
+
+## Support my work
+
+If yamlreel saves you time, you can [sponsor me on GitHub](https://github.com/sponsors/nsijwali) or [buy me a coffee via PayPal](https://www.paypal.me/sijwalinitin).
+
+## Get in touch
+
+- 📧 [sijwalinitin@gmail.com](mailto:sijwalinitin@gmail.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/nitinsij)
